@@ -1,2 +1,2 @@
-# GPT-clone
-This is a basic gpt clone which can use any llm model and can be run locally using Ollama
+# LLM-starter
+This is a very basic guide to understand how LLMs work and how we can test them locally
